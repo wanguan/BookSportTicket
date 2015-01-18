@@ -4,4 +4,6 @@ Create Time: 2015-1-18
 Author: Wan Guan
 
 hello, I want update this file in branch master!
-1.Update£¬ Time£º2015-1-18
+1.Update, Time:2015-1-18
+
+From now, all develop work will be done on branch dev!
